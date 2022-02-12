@@ -12,7 +12,7 @@
  
 💻 I’m a Junior **Full Stack Developer** 
 
-👹 Step into the oddysey [https://github.com/AlejandroRDev](https://github.com/AlejandroRDev)
+👹 Step into the oddysey.
  
 
 ✉️ 
