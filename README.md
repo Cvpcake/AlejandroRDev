@@ -18,11 +18,7 @@
 ✉️ 
 Do you have any good ideas? tell me: alejandrorueda.developer@gmail.com
 
-</div>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=Alex_Malakian&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=Alex_Malakian&redirect=true) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-</div>
 <br />
 
 
