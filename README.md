@@ -11,6 +11,8 @@
 <br />
  
 💻 I’m a Junior **Full Stack Developer** 
+ 
+📫 How to reach me: https://www.linkedin.com/in/alejandro-rueda-rodriguez-b78054228/
 
 👹 Step into the oddysey.
  
